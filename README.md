@@ -2,7 +2,7 @@
 
 A powerful, interactive chatbot that lets you ask questions about your PDF documents using Retrieval-Augmented Generation (RAG), OpenRouter LLMs, and a Streamlit frontend.
 
-![PDF RAG Chatbot Banner](screenshots/banner.png) <!-- Replace with your banner or main screenshot -->
+![PDF RAG Chatbot Banner](https://github.com/amrita40/pdf-rag-chatbot/blob/main/Screenshot%202025-07-29%20035747.png?raw=true) <!-- Replace with your banner or main screenshot -->
 
 ---
 
