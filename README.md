@@ -153,14 +153,6 @@ A: Use Streamlit’s [authentication recipes](https://docs.streamlit.io/knowledg
 - [ChromaDB](https://www.trychroma.com/)
 - [HuggingFace](https://huggingface.co/)
 
----
-
-## 📸 Add Your Screenshots & Demo
-
-- Place screenshots in a `screenshots/` folder.
-- Add your demo video link in the README.
-
----
 
 
 ---
