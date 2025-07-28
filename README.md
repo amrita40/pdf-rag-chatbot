@@ -128,18 +128,6 @@ pdf-rag-chatbot/
 
 ---
 
-## 🌐 Deployment
-
-You can deploy this app for free on [Streamlit Cloud](https://streamlit.io/cloud) or any cloud platform that supports Python.
-
-**Streamlit Cloud Steps:**
-1. Push your code to GitHub.
-2. Go to [Streamlit Cloud](https://streamlit.io/cloud) and connect your repo.
-3. Set `streamlit_app.py` as the main file.
-4. Add your `OPENAI_API_KEY` in Streamlit secrets.
-5. Deploy!
-
----
 
 ## ❓ FAQ
 
@@ -174,9 +162,6 @@ A: Use Streamlit’s [authentication recipes](https://docs.streamlit.io/knowledg
 
 ---
 
-## 📄 License
-
-MIT License
 
 ---
 
