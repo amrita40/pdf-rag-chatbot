@@ -35,7 +35,7 @@ A powerful, interactive chatbot that lets you ask questions about your PDF docum
 
 | Ask a Question | Get an Answer |
 |:--------------:|:-------------:|
-| ![Ask](https://github.com/amrita40/pdf-rag-chatbot/blob/main/Screenshot%202025-07-29%20040203.png?raw=true) | ![Answer](screenshots/answer.png) |
+| ![Ask](https://github.com/amrita40/pdf-rag-chatbot/blob/main/Screenshot%202025-07-29%20040203.png?raw=true) | ![Answer](https://github.com/amrita40/pdf-rag-chatbot/blob/main/Screenshot%202025-07-29%20000445.png?raw=true) |
 
 ---
 
